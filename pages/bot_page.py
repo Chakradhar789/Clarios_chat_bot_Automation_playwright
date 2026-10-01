@@ -17,6 +17,7 @@ class BotPage:
     def __init__(self, page: Page):
 
         self.page = page
+        
 
         # -------------------------------
         # Welcome
